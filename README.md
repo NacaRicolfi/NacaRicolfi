@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Naca Ricolfi AI & Automation Banner" width="100%">
-</p>
-
 # ¡Hola! Soy Naca Ricolfi 👋
 
 ### AI Consultant | RPA Developer | Referente de Automatización
